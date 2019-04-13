@@ -1,3 +1,4 @@
 # Discovering_VRML
 
-Surfaces 
+Surfaces : polygon mesh
+Curves
